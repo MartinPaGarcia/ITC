@@ -23,8 +23,8 @@
   <summary>Tabla de contenido</summary>
   <ol>
     <li>
-      <a href="#acerca-del-proyecto">Acerca del proyecto</a>
-    <li><a href="#contribuye-a-nuestro-código-de-building-liners">Contribuye</a></li>
+      <a href="#Acerca de la biblioteca">Acerca del proyecto</a>
+    <li><a href="#Contribuye a nuestro código Biblioteca ITC">Contribuye</a></li>
   </ol>
 </details>
 
