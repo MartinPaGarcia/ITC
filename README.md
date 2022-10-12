@@ -52,13 +52,51 @@ En esta biblioteca se busca incluir a todos los alumnoss de la comunidad de Tecn
 En esta sección se proporcionan algunas de las aplicaciones para desarrollo web. <br> <br>
 
 
-* [PostgresSQL](https://www.postgresql.org/) 
+* [PostgreSQL](https://www.postgresql.org/) 
 * [Node.js](https://nodejs.org/es/) 
 * [Next.js](https://nextjs.org/) 
 * [AWS CLI](https://aws.amazon.com/cli/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+## Desarollo con Linux
+
+En esta sección se proporcionan algunos de los recursos para desarollar en Linux. <br> <br>
+
+
+* [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
+* [Learn Linux](https://linuxjourney.com/)
+* [Docker](https://www.docker.com/)
+* [Docker Compose](https://docs.docker.com/compose/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Libros 
+
+* [Cracking the Coding Interview](docs/Books/Interview%20Preparation/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition).pdf)
+* [Code: The Hidden Language of Computers Hardware and Software](docs/Books/Theory/Code_%20The%20Hidden%20Language%20of%20Co%20-%20Charles%20Petzold.pdf)
+* [The Essential Turing](docs/Books/Theory/The%20Essential%20Turing%20-%20B.%20Jack%20Copeland.pdf)
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+* [Fluent Python](docs/Books/Python/Fluent%20Python,%202nd%20Edition%20-%20Luciano%20Ramalho.epub)
+* [Django for Beginners](docs/Books/Python/Django%20for%20Beginners%20-%20William%20S.%20Vincent.mobi)
+* [Django for Professionals](docs/Books/Python/Django%20for%20Professionals%20-%20William%20S.%20Vincent.epub)
+* [Django for APIs](docs/Books/Python/Django%20for%20APIs%20-%20William%20S.%20Vincent.epub)
+* [Grokking Algorithms](docs/Books/Interview%20Preparation/Grokking%20Algorithms_%20An%20illustr%20-%20Aditya%20Y.%20Bhargava.epub)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Canales de YouTube
+
+* [FireShip](https://www.youtube.com/c/Fireship) - Desarrollo web y aplicaciones
+* [Code Bullet](https://www.youtube.com/c/CodeBullet) - Inteligenica Artificial
+* [NetworkChuck](https://www.youtube.com/c/NetworkChuck) - Redes, Cloud y Linux
+* [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering) - Ingenieria de Software
+* [Dennis Ivy](https://www.youtube.com/c/DennisIvy) - Desarrollo web con Django
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
