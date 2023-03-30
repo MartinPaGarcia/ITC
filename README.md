@@ -85,6 +85,10 @@ En esta sección se proporcionan algunos de los recursos para desarollar en Linu
 * [Django for APIs](docs/Books/Python/Django%20for%20APIs%20-%20William%20S.%20Vincent.epub)
 * [Grokking Algorithms](docs/Books/Interview%20Preparation/Grokking%20Algorithms_%20An%20illustr%20-%20Aditya%20Y.%20Bhargava.epub)
 
+### Teoria Automata
+ * [Introduction to the Theory of Computation](docs/Books/Teoria%20Automata/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)
+ * [Introduction to Automata Theory, Languages, and Computation](docs/Books/Teoria%20Automata/Automatas-HMU01.pdf)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
